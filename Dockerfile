@@ -1,4 +1,4 @@
-FROM node:8.11.2
+FROM node:10.2.1
 
 RUN apt-get update && apt-get install apt-transport-https && \
   curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add - && \
