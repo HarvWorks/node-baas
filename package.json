@@ -23,7 +23,7 @@
     "async": "^2.6.0",
     "auth0-instrumentation": "github:auth0/auth0-instrumentation#v2.13.1",
     "aws-sdk": "^2.188.0",
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^2.0.1",
     "bunyan": "^1.8.12",
     "commander": "^2.13.0",
     "disyuntor": "^2.2.0",
