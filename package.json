@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "async": "^2.6.0",
-    "auth0-instrumentation": "github:auth0/auth0-instrumentation#v2.13.1",
+    "auth0-instrumentation": "github:HarvWorks/auth0-instrumentation#node10",
     "aws-sdk": "^2.188.0",
     "bcrypt": "^2.0.1",
     "bunyan": "^2.0.2",
